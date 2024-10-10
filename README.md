@@ -86,7 +86,7 @@ Cette application utilise l'[API FreeToGame](https://www.freetogame.com/api-doc)
 
 Vous pouvez voir un exemple de l'application en action en téléchargeant la vidéo ci-dessous :
 
-<video src="https://github.com/user-attachments/assets/Exemple" width="352" height="720"></video>
+<video src="https://github.com/MehmetSalihK/Free-GG/blob/main/assets/Exemple.mp4" width="352" height="720"></video>
 
 
 ## Bonus
