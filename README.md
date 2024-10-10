@@ -84,9 +84,9 @@ Cette application utilise l'[API FreeToGame](https://www.freetogame.com/api-doc)
 
 ## Exemple de Vidéo
 
-Voici un aperçu rapide de l'application en action :
+Vous pouvez voir un exemple de l'application en action en téléchargeant la vidéo ci-dessous :
 
-![Exemple de Vidéo](./assets/Exemple.mp4)
+[Voir la vidéo](./assets/Exemple.mp4)
 
 ## Bonus
 
