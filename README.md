@@ -88,6 +88,10 @@ Vous pouvez voir un exemple de l'application en action en téléchargeant la vid
 
 [Voir la vidéo](./assets/Exemple.mp4)
 
+
+
+
+
 ## Bonus
 
 Des fonctionnalités bonus peuvent inclure :
